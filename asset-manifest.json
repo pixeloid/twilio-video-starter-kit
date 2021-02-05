@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/twilio-video-starter-kit/static/css/main.bac7862c.chunk.css",
+    "main.js": "/twilio-video-starter-kit/static/js/main.5421ecc1.chunk.js",
+    "main.js.map": "/twilio-video-starter-kit/static/js/main.5421ecc1.chunk.js.map",
+    "runtime-main.js": "/twilio-video-starter-kit/static/js/runtime-main.ed4f3da3.js",
+    "runtime-main.js.map": "/twilio-video-starter-kit/static/js/runtime-main.ed4f3da3.js.map",
+    "static/js/2.00df8010.chunk.js": "/twilio-video-starter-kit/static/js/2.00df8010.chunk.js",
+    "static/js/2.00df8010.chunk.js.map": "/twilio-video-starter-kit/static/js/2.00df8010.chunk.js.map",
+    "static/js/3.6dd1b2a1.chunk.js": "/twilio-video-starter-kit/static/js/3.6dd1b2a1.chunk.js",
+    "static/js/3.6dd1b2a1.chunk.js.map": "/twilio-video-starter-kit/static/js/3.6dd1b2a1.chunk.js.map",
+    "index.html": "/twilio-video-starter-kit/index.html",
+    "static/css/main.bac7862c.chunk.css.map": "/twilio-video-starter-kit/static/css/main.bac7862c.chunk.css.map",
+    "static/js/2.00df8010.chunk.js.LICENSE.txt": "/twilio-video-starter-kit/static/js/2.00df8010.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed4f3da3.js",
+    "static/js/2.00df8010.chunk.js",
+    "static/css/main.bac7862c.chunk.css",
+    "static/js/main.5421ecc1.chunk.js"
+  ]
+}
